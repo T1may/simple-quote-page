@@ -1,19 +1,22 @@
 body {
+  height: 100vh;
+  width: 100%;
   background-image: url("assets/freedom.jpg");
   background-repeat: no-repeat;
-  background-size: cover; 
+  background-size: cover;
+  color: #333;
 }
 
 h1 {
   text-transform: uppercase;
   text-align: center;
-  font-size: 2.2rem;
+  font-size: 2.3rem;
   letter-spacing: .125rem;
   line-height: 1.5;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: 500;
-  margin-top: 2rem;
-  padding: 5rem;
+  margin-top: 3rem;
+  padding: 4rem;
 }
 
 p {
